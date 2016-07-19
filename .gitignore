@@ -1,0 +1,8 @@
+Data/
+.smt/
+.ipynb_checkpoints/
+*.pyc
+record1.json
+Untitled*
+lunch.py
+ClusterOutputFiles
